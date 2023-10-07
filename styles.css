@@ -1,0 +1,28 @@
+body {
+     background-color: rgb(176, 218, 176);
+}
+h1 {
+    background-color: rgb(41, 138, 41);
+    color: rgb(217, 219, 217);
+    text-align: center;
+}
+ul {
+    background-color: rgb(41, 138, 41);
+    color: rgb(217, 219, 217);
+    text-align: center;
+}
+ol {
+    background-color: rgb(41, 138, 41);
+    color: rgb(217, 219, 217);
+    text-align: center;
+}
+p {
+    background-color: rgb(41, 138, 41);
+    color: rgb(217, 219, 217);
+    text-align: center;
+}
+h4 {
+    background-color: rgb(41, 138, 41);
+    color: rgb(217, 219, 217);
+    text-align: center;
+}
